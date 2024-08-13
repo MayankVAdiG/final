@@ -1,1 +1,6 @@
-hello b.txt c.txt
+hello b.txt c.txt 
+
+y
+y
+y
+y
